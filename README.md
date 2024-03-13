@@ -6,8 +6,11 @@
 
 <h2>Me chamo Emanuel Alves, um jovem sonhador que adora programação e tecnologia!</h2>
 
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelalv3s&theme=transparent&show_icons=true"/>
-
+<div>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelalv3s&theme=transparent&show_icons=true">
+ .                                                                           .
+<img align="rigth" height="195" width="195" alt="manel-gif" src="https://i.picasion.com/pic92/95aa148f82b67735c41660c1047288ac.gif">
+</div>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
