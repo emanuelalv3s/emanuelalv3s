@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<h2>Me chamo Emanuel Alves, um jovem sonhador que adora programação e tecnologia!</h2>
+<h2>Me chamo Emanuel Alves, um jovem entusiasta que se aventura em programação e tecnologia!</h2>
 
 <div>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelalv3s&theme=transparent&show_icons=true">
