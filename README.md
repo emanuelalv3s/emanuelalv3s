@@ -1,4 +1,6 @@
-
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/emanuelalv3s/count.svg" />
+</p>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
